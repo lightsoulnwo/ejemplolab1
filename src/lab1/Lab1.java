@@ -43,7 +43,7 @@ public class Lab1  {
             
            App1 obj1=new App1();
            obj1.mostrarMenu();
-            
+            String a="aadf";
         }
     }
 
