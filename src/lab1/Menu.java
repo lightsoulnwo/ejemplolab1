@@ -20,4 +20,5 @@ public abstract class Menu {
     public abstract void mostrarMenu() ;
 
     public abstract void Accion(int acc) ;
+    String a="sasfasfadfasdvsvfbxsejfbkchksjefsabkhdase";
 }
